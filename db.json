@@ -1,8 +1,8 @@
 {
- "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+ "users": [
+    { "id": 1, "title": "Shubham" },
+    { "id": 2, "title": "Gopal" },
+    { "id": 3, "title": "Prashant" }
   ]
 }
   

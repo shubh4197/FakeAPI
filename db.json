@@ -1,8 +1,8 @@
 {
  "users": [
-    { "id": 1, "title": "Shubham" },
-    { "id": 2, "title": "Gopal" },
-    { "id": 3, "title": "Prashant" }
+    { "id": 1, "title": "Shubham","gender":"male","email":"shubh4197@gmail.com"},
+    { "id": 2, "title": "Gopal","gender":"male",email:"gopal@gmail.com"},
+    { "id": 3, "title": "Prashant","gender":"male",email:"prashant@gmail.com"}
   ]
 }
   
